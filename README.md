@@ -40,7 +40,7 @@ $ `python3 OLED_0in96_test.py`<br>
 참고: https://icedhotchoco.tistory.com/entry/OpenWeatherMap-%EB%82%A0%EC%94%A8-API<br>
 
 <b> run </b><br>
-소스코드 1,2번줄에 자신의 API key, 원하는 도시로 변경합니다. <br>
+소스코드 change to yours! 부분에 자신의 API key, 원하는 도시로 변경합니다. <br>
 $ `python3 weather_pjt.py` <br>
 
 ## led_toggle.py
