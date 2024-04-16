@@ -66,10 +66,10 @@ $ `python3 mood_light.py`
 3. 허가된 이용자 x - 출입 실패 시: LED2 5번 빠르게 깜빡임
 
 <br><b> ready for RFID </b><br>
-$ `cd ~ && mkdir rfid`
-`cd ./rfid`
-`git clone https://github.com/pimylifeup/MFRC522-python`
-`cd ./MFRC522-python/sudo python3 setup.py install`
+$ `cd ~ && mkdir rfid` <br>
+$ `cd ./rfid` <br>
+$ `git clone https://github.com/pimylifeup/MFRC522-python` <br>
+$ `cd ./MFRC522-python/sudo python3 setup.py install` <br>
 
 
 라즈베리 파이 5는 아래의 과정을 진행해야 합니다.<br><br>
